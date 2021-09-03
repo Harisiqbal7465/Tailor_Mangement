@@ -1,0 +1,734 @@
+E:\VS C# proj\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.exe.config
+E:\VS C# proj\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.exe
+E:\VS C# proj\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.pdb
+E:\VS C# proj\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Home.resources
+E:\VS C# proj\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.MDI.resources
+E:\VS C# proj\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Order.resources
+E:\VS C# proj\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Properties.Resources.resources
+E:\VS C# proj\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Sample.resources
+E:\VS C# proj\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Sample2.resources
+E:\VS C# proj\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csproj.GenerateResource.cache
+E:\VS C# proj\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.exe
+E:\VS C# proj\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.pdb
+E:\VS C# proj\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Detail.resources
+E:\VS C# proj\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csprojAssemblyReference.cache
+E:\VS C# proj\GraceTailorUi\GraceTailor\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\VS C# proj\GraceTailorUi\GraceTailor\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\VS C# proj\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csproj.CopyComplete
+D:\Books\C# projects\GraceTailorUi\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.exe.config
+D:\Books\C# projects\GraceTailorUi\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.exe
+D:\Books\C# projects\GraceTailorUi\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.pdb
+D:\Books\C# projects\GraceTailorUi\GraceTailorUi\GraceTailor\bin\Debug\Guna.UI.dll
+D:\Books\C# projects\GraceTailorUi\GraceTailorUi\GraceTailor\bin\Debug\Guna.UI.pdb
+D:\Books\C# projects\GraceTailorUi\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Detail.resources
+D:\Books\C# projects\GraceTailorUi\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Home.resources
+D:\Books\C# projects\GraceTailorUi\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.MDI.resources
+D:\Books\C# projects\GraceTailorUi\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Order.resources
+D:\Books\C# projects\GraceTailorUi\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Properties.Resources.resources
+D:\Books\C# projects\GraceTailorUi\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Sample.resources
+D:\Books\C# projects\GraceTailorUi\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Sample2.resources
+D:\Books\C# projects\GraceTailorUi\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csproj.GenerateResource.cache
+D:\Books\C# projects\GraceTailorUi\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csproj.CopyComplete
+D:\Books\C# projects\GraceTailorUi\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.exe
+D:\Books\C# projects\GraceTailorUi\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.pdb
+D:\Books\C# projects\GraceTailorUi\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csprojAssemblyReference.cache
+D:\Books\C# projects\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.exe.config
+D:\Books\C# projects\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.exe
+D:\Books\C# projects\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.pdb
+D:\Books\C# projects\GraceTailorUi\GraceTailor\bin\Debug\Guna.UI.dll
+D:\Books\C# projects\GraceTailorUi\GraceTailor\bin\Debug\Guna.UI.pdb
+D:\Books\C# projects\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csprojAssemblyReference.cache
+D:\Books\C# projects\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Detail.resources
+D:\Books\C# projects\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Home.resources
+D:\Books\C# projects\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.MDI.resources
+D:\Books\C# projects\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Order.resources
+D:\Books\C# projects\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Properties.Resources.resources
+D:\Books\C# projects\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Sample.resources
+D:\Books\C# projects\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Sample2.resources
+D:\Books\C# projects\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csproj.GenerateResource.cache
+D:\Books\C# projects\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csproj.CopyComplete
+D:\Books\C# projects\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.exe
+D:\Books\C# projects\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.pdb
+E:\haris\c# projects\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csprojAssemblyReference.cache
+E:\haris\c# projects\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Detail.resources
+E:\haris\c# projects\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Home.resources
+E:\haris\c# projects\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.MDI.resources
+E:\haris\c# projects\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Order.resources
+E:\haris\c# projects\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Properties.Resources.resources
+E:\haris\c# projects\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Sample.resources
+E:\haris\c# projects\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Sample2.resources
+E:\haris\c# projects\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csproj.GenerateResource.cache
+E:\haris\c# projects\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.exe
+E:\haris\c# projects\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.pdb
+E:\haris\c# projects\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.exe.config
+E:\haris\c# projects\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.exe
+E:\haris\c# projects\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.pdb
+E:\haris\c# projects\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.dll
+E:\haris\c# projects\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.SqlServer.dll
+E:\haris\c# projects\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.dll
+E:\haris\c# projects\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.EF6.dll
+E:\haris\c# projects\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.Linq.dll
+E:\haris\c# projects\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.xml
+E:\haris\c# projects\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.SqlServer.xml
+E:\haris\c# projects\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\Guna.UI.pdb
+E:\haris\c# projects\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.xml
+E:\haris\c# projects\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.dll.config
+E:\haris\c# projects\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csproj.CopyComplete
+E:\vs code setup\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.exe.config
+E:\vs code setup\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.exe
+E:\vs code setup\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.pdb
+E:\vs code setup\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.dll
+E:\vs code setup\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.SqlServer.dll
+E:\vs code setup\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.dll
+E:\vs code setup\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.EF6.dll
+E:\vs code setup\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.Linq.dll
+E:\vs code setup\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.xml
+E:\vs code setup\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.SqlServer.xml
+E:\vs code setup\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\Guna.UI.pdb
+E:\vs code setup\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.xml
+E:\vs code setup\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.dll.config
+E:\vs code setup\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csprojAssemblyReference.cache
+E:\vs code setup\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Detail.resources
+E:\vs code setup\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Home.resources
+E:\vs code setup\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.MDI.resources
+E:\vs code setup\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Order.resources
+E:\vs code setup\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Properties.Resources.resources
+E:\vs code setup\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Sample.resources
+E:\vs code setup\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Sample2.resources
+E:\vs code setup\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csproj.GenerateResource.cache
+E:\vs code setup\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csproj.CopyComplete
+E:\vs code setup\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.exe
+E:\vs code setup\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.pdb
+E:\haris\c# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csprojAssemblyReference.cache
+E:\haris\c# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Detail.resources
+E:\haris\c# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Home.resources
+E:\haris\c# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.MDI.resources
+E:\haris\c# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Order.resources
+E:\haris\c# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Properties.Resources.resources
+E:\haris\c# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Sample.resources
+E:\haris\c# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Sample2.resources
+E:\haris\c# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csproj.GenerateResource.cache
+E:\haris\c# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.exe
+E:\haris\c# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.pdb
+E:\haris\c# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.exe.config
+E:\haris\c# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.exe
+E:\haris\c# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.pdb
+E:\haris\c# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.dll
+E:\haris\c# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.SqlServer.dll
+E:\haris\c# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.dll
+E:\haris\c# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.EF6.dll
+E:\haris\c# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.Linq.dll
+E:\haris\c# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.xml
+E:\haris\c# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.SqlServer.xml
+E:\haris\c# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\Guna.UI.pdb
+E:\haris\c# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.xml
+E:\haris\c# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.dll.config
+E:\haris\c# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csproj.CopyComplete
+E:\haris\c# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\haris\c# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\haris\c# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.Shared.dll
+E:\haris\c# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\haris\c# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\haris\c# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\haris\c# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\haris\c# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\haris\c# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\haris\c# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\haris\c# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\haris\c# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\haris\c# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\haris\c# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\haris\c# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\haris\c# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\stdole.dll
+E:\vs code setup\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.exe.config
+E:\vs code setup\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.exe
+E:\vs code setup\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.pdb
+E:\vs code setup\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\vs code setup\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\vs code setup\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.Shared.dll
+E:\vs code setup\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.dll
+E:\vs code setup\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.SqlServer.dll
+E:\vs code setup\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.dll
+E:\vs code setup\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.EF6.dll
+E:\vs code setup\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.Linq.dll
+E:\vs code setup\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\vs code setup\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\vs code setup\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\vs code setup\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\vs code setup\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\vs code setup\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\vs code setup\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\vs code setup\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\vs code setup\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\vs code setup\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\vs code setup\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\vs code setup\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\vs code setup\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\stdole.dll
+E:\vs code setup\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.xml
+E:\vs code setup\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.SqlServer.xml
+E:\vs code setup\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\Guna.UI.pdb
+E:\vs code setup\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.xml
+E:\vs code setup\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.dll.config
+E:\vs code setup\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csprojAssemblyReference.cache
+E:\vs code setup\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Detail.resources
+E:\vs code setup\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Home.resources
+E:\vs code setup\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.MDI.resources
+E:\vs code setup\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Order.resources
+E:\vs code setup\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Properties.Resources.resources
+E:\vs code setup\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Sample.resources
+E:\vs code setup\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Sample2.resources
+E:\vs code setup\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csproj.GenerateResource.cache
+E:\vs code setup\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csproj.CopyComplete
+E:\vs code setup\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.exe
+E:\vs code setup\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.pdb
+D:\Books\C# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.exe.config
+D:\Books\C# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.exe
+D:\Books\C# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.pdb
+D:\Books\C# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Books\C# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Books\C# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.Shared.dll
+D:\Books\C# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.dll
+D:\Books\C# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.SqlServer.dll
+D:\Books\C# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.dll
+D:\Books\C# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Books\C# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Books\C# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Books\C# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Books\C# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Books\C# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Books\C# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Books\C# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Books\C# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Books\C# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Books\C# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Books\C# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Books\C# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Books\C# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Books\C# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\stdole.dll
+D:\Books\C# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.xml
+D:\Books\C# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.SqlServer.xml
+D:\Books\C# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\Guna.UI.pdb
+D:\Books\C# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.xml
+D:\Books\C# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.dll.config
+D:\Books\C# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csprojAssemblyReference.cache
+D:\Books\C# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Detail.resources
+D:\Books\C# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Home.resources
+D:\Books\C# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.MDI.resources
+D:\Books\C# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Order.resources
+D:\Books\C# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Properties.Resources.resources
+D:\Books\C# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Sample.resources
+D:\Books\C# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Sample2.resources
+D:\Books\C# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csproj.GenerateResource.cache
+D:\Books\C# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csproj.CopyComplete
+D:\Books\C# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.exe
+D:\Books\C# projects\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.pdb
+E:\haris\c# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.exe.config
+E:\haris\c# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.exe
+E:\haris\c# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.pdb
+E:\haris\c# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\haris\c# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\haris\c# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.Shared.dll
+E:\haris\c# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.dll
+E:\haris\c# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.SqlServer.dll
+E:\haris\c# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.dll
+E:\haris\c# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.EF6.dll
+E:\haris\c# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.Linq.dll
+E:\haris\c# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\haris\c# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\haris\c# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\haris\c# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\haris\c# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\haris\c# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\haris\c# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\haris\c# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\haris\c# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\haris\c# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\haris\c# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\haris\c# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\haris\c# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\stdole.dll
+E:\haris\c# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.xml
+E:\haris\c# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.SqlServer.xml
+E:\haris\c# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\Guna.UI.pdb
+E:\haris\c# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.xml
+E:\haris\c# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.dll.config
+E:\haris\c# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csprojAssemblyReference.cache
+E:\haris\c# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Detail.resources
+E:\haris\c# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Home.resources
+E:\haris\c# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.MDI.resources
+E:\haris\c# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Order.resources
+E:\haris\c# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Properties.Resources.resources
+E:\haris\c# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Sample.resources
+E:\haris\c# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Sample2.resources
+E:\haris\c# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csproj.GenerateResource.cache
+E:\haris\c# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csproj.CopyComplete
+E:\haris\c# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.exe
+E:\haris\c# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.pdb
+E:\vs code setup\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csprojAssemblyReference.cache
+E:\vs code setup\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.exe
+E:\vs code setup\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.pdb
+E:\vs code setup\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.exe.config
+E:\vs code setup\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.exe
+E:\vs code setup\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.pdb
+E:\vs code setup\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\vs code setup\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\vs code setup\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.Shared.dll
+E:\vs code setup\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.dll
+E:\vs code setup\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.SqlServer.dll
+E:\vs code setup\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.dll
+E:\vs code setup\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.EF6.dll
+E:\vs code setup\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.Linq.dll
+E:\vs code setup\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\vs code setup\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\vs code setup\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\vs code setup\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\vs code setup\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\vs code setup\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\vs code setup\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\vs code setup\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\vs code setup\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\vs code setup\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\vs code setup\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\vs code setup\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\vs code setup\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\stdole.dll
+E:\vs code setup\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.xml
+E:\vs code setup\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.SqlServer.xml
+E:\vs code setup\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\Guna.UI.pdb
+E:\vs code setup\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.xml
+E:\vs code setup\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.dll.config
+E:\vs code setup\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Detail.resources
+E:\vs code setup\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Home.resources
+E:\vs code setup\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.MDI.resources
+E:\vs code setup\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Order.resources
+E:\vs code setup\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Properties.Resources.resources
+E:\vs code setup\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Sample.resources
+E:\vs code setup\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Sample2.resources
+E:\vs code setup\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csproj.GenerateResource.cache
+E:\vs code setup\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csproj.CopyComplete
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.exe.config
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.exe
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.pdb
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.Shared.dll
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.dll
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.SqlServer.dll
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.dll
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\stdole.dll
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.xml
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.SqlServer.xml
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\Guna.UI.pdb
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.xml
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.dll.config
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csprojAssemblyReference.cache
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Detail.resources
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Home.resources
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.MDI.resources
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Order.resources
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Properties.Resources.resources
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Sample.resources
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Sample2.resources
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csproj.GenerateResource.cache
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csproj.CopyComplete
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.exe
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.pdb
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\Bunifu.Core.dll
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\Books\C# projects\version 4\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.exe.config
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.exe.config
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.exe
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.pdb
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.Shared.dll
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.dll
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.SqlServer.dll
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\FlashControlV71.dll
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.dll
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.EF6.dll
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.Linq.dll
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\Bunifu.Core.dll
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\ShockwaveFlashObjects.dll
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\stdole.dll
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.xml
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.SqlServer.xml
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\Guna.UI.pdb
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.xml
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.dll.config
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csprojAssemblyReference.cache
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.exe.config
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Detail.resources
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Home.resources
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.MDI.resources
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Order.resources
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Properties.Resources.resources
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Sample.resources
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Sample2.resources
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.ShowReport.resources
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csproj.GenerateResource.cache
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csproj.CopyComplete
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.exe
+E:\vs code setup\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.pdb
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.exe.config
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.exe
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.pdb
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.Shared.dll
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.dll
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.SqlServer.dll
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\FlashControlV71.dll
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.dll
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\Bunifu.Core.dll
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\ShockwaveFlashObjects.dll
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\stdole.dll
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.xml
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.SqlServer.xml
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.xml
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.dll.config
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csprojAssemblyReference.cache
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.exe.config
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Detail.resources
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Home.resources
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.MDI.resources
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Order.resources
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Properties.Resources.resources
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Sample.resources
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Sample2.resources
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.ShowReport.resources
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csproj.GenerateResource.cache
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csproj.CopyComplete
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.exe
+D:\Books\C# projects\version 5\version 3\version 3\GraceTailorUi (1)\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.pdb
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.exe.config
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Detail.resources
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Home.resources
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.MDI.resources
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Order.resources
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Properties.Resources.resources
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Sample.resources
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Sample2.resources
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.ShowReport.resources
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csproj.GenerateResource.cache
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.exe.config
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.exe
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.pdb
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.Shared.dll
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.dll
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.SqlServer.dll
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\bin\Debug\FlashControlV71.dll
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\bin\Debug\Guna.UI.dll
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.dll
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\bin\Debug\Bunifu.Core.dll
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\bin\Debug\ShockwaveFlashObjects.dll
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\bin\Debug\stdole.dll
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.xml
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.SqlServer.xml
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\bin\Debug\Guna.UI.pdb
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.xml
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.dll.config
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csprojAssemblyReference.cache
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csproj.CopyComplete
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.exe
+D:\Books\C# projects\version 5\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.pdb
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.exe.config
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.exe
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.pdb
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.Shared.dll
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.dll
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.SqlServer.dll
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\bin\Debug\FlashControlV71.dll
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.dll
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\bin\Debug\Bunifu.Core.dll
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\bin\Debug\ShockwaveFlashObjects.dll
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\bin\Debug\stdole.dll
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.xml
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.SqlServer.xml
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.xml
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.dll.config
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csprojAssemblyReference.cache
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.exe.config
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Detail.resources
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Home.resources
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.MDI.resources
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Order.resources
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Properties.Resources.resources
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Sample.resources
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Sample2.resources
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.ShowReport.resources
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csproj.GenerateResource.cache
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csproj.CopyComplete
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.exe
+D:\Books\Projects\C# projects\GraceTailor\version 5\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.pdb
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.exe.config
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.exe
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.pdb
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.dll
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\bin\Debug\FlashControlV71.dll
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.dll
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\bin\Debug\Bunifu.Core.dll
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\bin\Debug\stdole.dll
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.xml
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.xml
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csprojAssemblyReference.cache
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.exe.config
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Detail.resources
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Home.resources
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.MDI.resources
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Order.resources
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Properties.Resources.resources
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Sample.resources
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Sample2.resources
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.ShowReport.resources
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csproj.GenerateResource.cache
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csproj.CopyComplete
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.exe
+C:\Users\Computer Arena\Desktop\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.pdb
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.exe.config
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.exe
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.pdb
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.Shared.dll
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.dll
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.SqlServer.dll
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\bin\Debug\FlashControlV71.dll
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.dll
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.EF6.dll
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.Linq.dll
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\bin\Debug\Bunifu.Core.dll
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\bin\Debug\ShockwaveFlashObjects.dll
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\bin\Debug\stdole.dll
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.xml
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.SqlServer.xml
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.xml
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.dll.config
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csprojAssemblyReference.cache
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.exe.config
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Detail.resources
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Home.resources
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.MDI.resources
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Order.resources
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Properties.Resources.resources
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Sample.resources
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Sample2.resources
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.ShowReport.resources
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csproj.GenerateResource.cache
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csproj.CoreCompileInputs.cache
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csproj.CopyComplete
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.exe
+E:\haris\c# projects\vs\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.pdb
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.exe.config
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.exe
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.pdb
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.Shared.dll
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.dll
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.SqlServer.dll
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\bin\Debug\FlashControlV71.dll
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.dll
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.EF6.dll
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.Linq.dll
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\bin\Debug\Bunifu.Core.dll
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\bin\Debug\ShockwaveFlashObjects.dll
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\bin\Debug\stdole.dll
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.xml
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.SqlServer.xml
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.xml
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.dll.config
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csprojAssemblyReference.cache
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.exe.config
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Detail.resources
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Home.resources
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.MDI.resources
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Order.resources
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Properties.Resources.resources
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Sample.resources
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Sample2.resources
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.ShowReport.resources
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csproj.GenerateResource.cache
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csproj.CoreCompileInputs.cache
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csproj.CopyComplete
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.exe
+E:\haris\c# projects\v5\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.pdb
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.exe.config
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.exe
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\bin\Debug\GraceTailor.pdb
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.dll
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\bin\Debug\FlashControlV71.dll
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.dll
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\bin\Debug\stdole.dll
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.xml
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.xml
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csprojAssemblyReference.cache
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.exe.config
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Detail.resources
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Home.resources
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.MDI.resources
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Order.resources
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Properties.Resources.resources
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Sample.resources
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.Sample2.resources
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.ShowReport.resources
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csproj.GenerateResource.cache
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csproj.CoreCompileInputs.cache
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.csproj.CopyComplete
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.exe
+C:\Users\Abdul-Haseeb\Desktop\GraceTailorUi\GraceTailorUi\GraceTailor\obj\Debug\GraceTailor.pdb
